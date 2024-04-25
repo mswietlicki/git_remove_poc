@@ -1,3 +1,2 @@
 Some data
-SECRET
 end some data
